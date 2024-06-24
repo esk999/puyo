@@ -7,7 +7,7 @@
 
 ```bash
 g++ -o puyo puyo1.cpp -lncurses
-
+```
 # 操作方法
 
 このプログラムの操作方法は以下の通りです。
